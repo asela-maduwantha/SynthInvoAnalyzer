@@ -1,0 +1,8 @@
+.content{
+    display: flex;
+    flex-direction: row;
+}
+
+.upload-content{
+    width: 100%;
+}
